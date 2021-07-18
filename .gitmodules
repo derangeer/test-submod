@@ -1,0 +1,4 @@
+[submodule "submodules/tutorial2"]
+	path = submodules/tutorial2
+	url = git@github.com:derangeer/tutorial2.git
+	branch = main
